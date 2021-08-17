@@ -1,1 +1,1 @@
-# chatstack-cli-page
+# ChatStack CLI
